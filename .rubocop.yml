@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - 'bin/setup'
+    - 'bin/update'
+
+Metrics/BlockLength:
+  Max: 1000
